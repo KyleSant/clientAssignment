@@ -1,0 +1,42 @@
+html{
+    margin: 0,auto;
+}
+
+h2{
+    margin-left: 1%;
+    font-size: 30px;
+    font-style: italic;
+    color: aquamarine;
+}
+
+a{
+    margin-left: 3%;
+    color: cornflowerblue;
+}
+
+img{
+    width:500px;
+    height: 300px;
+    padding: 3%;
+}
+
+#image2{
+    padding-left: 10%;
+}
+
+#smallHeader2{
+    margin-left: 10%;
+}
+
+body{
+    margin: 6%;
+}
+
+.container{
+    float: left;
+}
+
+.clear{
+    clear: none;
+}
+

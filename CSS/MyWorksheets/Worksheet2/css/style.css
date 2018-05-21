@@ -1,0 +1,74 @@
+header{
+    background-color: aquamarine;
+    color: blue;
+}
+
+nav{
+    color: blue;
+
+}
+
+section, #Header{
+    color: blue;
+}
+
+article{
+    color: blue;
+}
+
+section, #Footer{
+    color: blue;
+}
+
+aside{
+    color: blue;
+}
+
+footer{
+    color: blue;
+}
+
+.nav{
+    float: left;
+    background-color: darkcyan;
+    height: 400px;
+    width: 10%;
+    
+}
+
+.sectionHeader{
+    background-color: darkkhaki;
+    height: 50px;
+
+}
+
+.article{
+    background-color: darkred;
+    height: 300px;
+
+}
+
+.sectionFooter{
+    background-color: darkkhaki;
+    height: 50px;
+}
+
+.mainArea{
+    float: left;
+    width: 50%;
+}
+
+.aside{
+    background-color: darkcyan;
+    height: 400px;
+   
+}
+
+.mainFooter{
+    background-color: aquamarine;
+}
+
+.clear{
+    clear: both;
+}
+
