@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Worksheet10</title>
+</head>
+<body>
+    <div id="showlist"></div>
+    <p>Write down the element which you want to search for <i>(the first letter should be upper case while the remaining letters should be in lower case).</i></p>
+    <input type="text" name="element" id="element">
+    <input type="submit" name="submit" value="Search" onclick="search()"><br/><br/>
+    <div id="indexEntry"></div>
+    Please enter a set of comma seperated values. <br>
+    These values will then be split as single items in array.
+    <br><br>
+    <input type="text" name="values" id="values" placeholder="value1, value2, value3">
+    <input type="submit" name="split" id="Split" onclick="clickSplit()">
+    
+    <p>These are the words which you have entered in reverse order: </p>
+    <div id="reverseWords"></div>
+    
+    <h2>Loops examples</h2>
+    <button onclick="clickMultiple()">Multiple of 9</button>
+    
+    <div id="multiples"></div>
+    
+</body>
+<script src="script.js"></script>
+</html>

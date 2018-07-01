@@ -1,0 +1,15 @@
+h2{
+    color: red;
+}
+
+span{
+    width: 100px;
+    color: darkred;
+    display: inline-block;
+}
+
+button{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
